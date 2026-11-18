@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "zipe-editor-poc",
+    "description": "Ore UI override via content.zipe (benign calc PoC)",
+    "uuid": "7d1a63f0-55aa-4d0e-9f11-9b7a2f000001",
+    "version": [
+      1,
+      0,
+      3
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "7d1a63f0-55aa-4d0e-9f11-9b7a2f000002",
+      "version": [
+        1,
+        0,
+        3
+      ]
+    }
+  ]
+}
